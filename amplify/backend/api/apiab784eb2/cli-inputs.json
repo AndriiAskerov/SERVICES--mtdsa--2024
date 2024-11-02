@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/call/{callId}": {
+      "name": "/call/{callId}",
+      "lambdaFunction": "diplomaapicall16915d28",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

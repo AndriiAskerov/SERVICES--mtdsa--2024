@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-diplomaapicall-dev-0e37a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::211125477911:role/amplify-diplomaapicall-dev-0e37a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::211125477911:role/amplify-diplomaapicall-dev-0e37a-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-diplomaapicall-dev-0e37a-deployment",
+      "UnauthRoleName": "amplify-diplomaapicall-dev-0e37a-unauthRole",
+      "StackName": "amplify-diplomaapicall-dev-0e37a",
+      "StackId": "arn:aws:cloudformation:eu-central-1:211125477911:stack/amplify-diplomaapicall-dev-0e37a/a9264660-1821-11ef-9938-02820448897f",
+      "AmplifyAppId": "d2hplld9bllm2s"
+    },
+    "categories": {
+      "function": {
+        "diplomaapicall16915d28": {}
+      }
+    }
+  }
+}
